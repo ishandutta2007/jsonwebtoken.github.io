@@ -1,8 +1,1 @@
-<?xml version="1.0"?>
-<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
- <g>
-  <title>Layer 1</title>
-  <circle stroke="#000000" id="svg_3" r="24.730209" cy="24.884458" cx="25.017941" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff"/>
-  <text font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_1" y="33.067871" x="25.067871" stroke-width="0" stroke="#000000" fill="#000000">q)</text>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="50" height="50"><g><title>Layer 1</title><circle id="svg_3" cx="25.018" cy="24.884" r="24.73" fill="#fff" stroke="#000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/><text id="svg_1" x="25.068" y="33.068" fill="#000" stroke="#000" stroke-width="0" font-family="Sans-serif" font-size="24" font-weight="bold" text-anchor="middle" xml:space="preserve">q)</text></g></svg>
